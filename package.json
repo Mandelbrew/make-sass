@@ -1,0 +1,24 @@
+{
+  "name"           : "make-sass",
+  "version"        : "0.1.0",
+  "description"    : "Template for Sass applications using Make, NPM and Webpack.",
+  "author"         : "Mandelbrew",
+  "homepage"       : "https://github.com/Mandelbrew/make-sass#readme",
+  "license"        : "MIT",
+  "bugs"           : {
+    "url": "https://github.com/Mandelbrew/make-sass/issues"
+  },
+  "repository"     : {
+    "type": "git",
+    "url" : "git+https://github.com/Mandelbrew/make-sass.git"
+  },
+  "devDependencies": {
+    "autoprefixer"  : "^6.3.7",
+    "bootstrap-sass": "^3.3.7",
+    "node-sass"     : "^3.8.0",
+    "postcss-cli"   : "^2.5.2"
+  },
+  "scripts"        : {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
